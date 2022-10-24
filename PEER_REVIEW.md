@@ -79,11 +79,11 @@ Then you will be able to add, commit and push your changes to this new branch:
 
 Once these changes have been pushed to your repo, you will be able to make a new Pull Request. You can navigate to Pull Requests here:
 
-![Pull Request](../images/pull_request.png)
+![Pull Request](./images/pull_request.png)
 
 Then you should see your new branch name pop up in the drop down box when comparing it to `main`:
 
-![Compare Branch](../images/pull_request_branch.png)
+![Compare Branch](./images/pull_request_branch.png)
 
 This Pull Request can then be shared with your peer for them to comment on. 
 
