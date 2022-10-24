@@ -106,6 +106,14 @@ To improve readability, you might choose to break some of these methods down int
 6. Run `rspec` regularly to check your progress
 7. Keep going until all the tests pass
 
+### Peer Code Review
+
+Upon submission of the initial programming task in Chapter 3, your technical coach will pair you up with someone who will review your code. Work with this colleague, until you are both happy that the submission is adequate at which point you can merge the branch and close the Pull Request.
+
+You can return [here](../PEER_REVIEW.md) to view the Peer Review Overview.
+
+You can find the Peer Review checklist [here](./program/CHECKLIST.md)
+
 ## Submitting Your Work
 
 Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch3) to submit your code and screen recording

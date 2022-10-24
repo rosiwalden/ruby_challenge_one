@@ -8,7 +8,9 @@ Well done for reaching the chapter 1 challenges! Here, you'll find two types of 
 
 To get the exercises onto your machine, you'll need to fork and then clone this repo.
 
-If you're not sure how to do that, watch [this short video](https://youtu.be/QWV5-UNNSLI).
+If you're not sure how to do that, watch [this short video](https://www.youtube.com/watch?v=QWV5-UNNSLI) and substitute `python_foundations` instead of `ruby_foundations`.
+
+/** @TASK — Create a general or Python-specific video **/
 
 ### Installing Dependencies
 
@@ -72,6 +74,14 @@ Drills are short, tightly focused exercises which get harder as you progress. Yo
 In this exercise you'll bring together several different concepts to build a password validator.
 
 > Please do a [screen recording](../../pills/screen_recordings.md) of yourself working on this exercise so that your coach can see how you're getting on. You can upload it, along with your code, using the form at the end of this file.
+
+### Peer Code Review
+
+Upon submission of the initial programming task in Chapter 1, your technical coach will pair you up with someone who will review your code. Work with this colleague, until you are both happy that the submission is adequate at which point you can merge the branch and close the Pull Request.
+
+You can return [here](../PEER_REVIEW.md) to view the Peer Review Overview.
+
+You can find the Peer Review checklist [here](./program/CHECKLIST.md)
 
 ### Requirements
 
