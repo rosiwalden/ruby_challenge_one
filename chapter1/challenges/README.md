@@ -75,14 +75,6 @@ In this exercise you'll bring together several different concepts to build a pas
 
 > Please do a [screen recording](../../pills/screen_recordings.md) of yourself working on this exercise so that your coach can see how you're getting on. You can upload it, along with your code, using the form at the end of this file.
 
-### Peer Code Review
-
-Upon submission of the initial programming task in Chapter 1, your technical coach will pair you up with someone who will review your code. Work with this colleague, until you are both happy that the submission is adequate at which point you can merge the branch and close the Pull Request.
-
-You can return [here](../PEER_REVIEW.md) to view the Peer Review Overview.
-
-You can find the Peer Review checklist [here](./program/CHECKLIST.md)
-
 ### Requirements
 
 The password validator will ensure that a password is compliant with the following rules.
@@ -132,6 +124,14 @@ Each of these can be further broken down...
 ## Submitting Your Work
 
 Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch1) to submit your code and screen recording
+
+### Peer Code Review
+
+Upon submission of the initial programming task in Chapter 1, your technical coach will pair you up with someone who will review your code. Work with this colleague, until you are both happy that the submission is adequate at which point you can merge the branch and close the Pull Request.
+
+You can return [here](.../PEER_REVIEW.md) to view the Peer Review Overview.
+
+You can find the Peer Review checklist [here](./program/CHECKLIST.md)
 
 ## What Next?
 
