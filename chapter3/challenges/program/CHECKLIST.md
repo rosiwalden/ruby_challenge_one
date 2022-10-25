@@ -39,7 +39,9 @@ Once you have gone through this list, and made your comments on the Pull Request
 
 Remember to take a screenshot of the PR! Upon reaching a conclusion between the feedback and any refactoring that has been applied, you may merge the Pull Request to the `main` branch.
 
-Upload the screenshot via the form. A coach will review your code-review in due course.
+Upload the screenshot and repo link via the [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch3_peer_review). 
+
+A coach will review your code-review in due course.
 
 What did you find good about this task? What new things did you learn? Does reviewing code critically inform your decision making? 
 
