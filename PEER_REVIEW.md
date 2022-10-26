@@ -64,8 +64,8 @@ You can do this by using the following commands:
 
 ``` shell
 ; git init
-; git branch ruby-foundations-challenge-one
-; git switch ruby-foundations-challenge-one
+; git branch peer_review_branch
+; git switch peer_review_branch
 ```
 
 Then you will be able to add, commit and push your changes to this new branch:
@@ -74,7 +74,7 @@ Then you will be able to add, commit and push your changes to this new branch:
 ; git add .
 ; git commit -m "initial commit for challenge"
 ; git remote add origin <your-repo-name-goes-here>.git
-; git push -u origin ruby-foundations-challenge-one
+; git push -u origin peer_review_branch
 ```
 
 Once these changes have been pushed to your repo, you will be able to make a new Pull Request. You can navigate to Pull Requests here:
