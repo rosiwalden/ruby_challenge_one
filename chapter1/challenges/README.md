@@ -155,7 +155,7 @@ Your Peer will leave comments on the Pull Request.
 
 Upon submission of the initial programming task in Chapter 1, your technical coach will pair you up with someone who will review your code. Work with this colleague, until you are both happy that the submission is adequate at which point you can merge the branch and close the Pull Request.
 
-You can return [here](.../PEER_REVIEW.md) to view the Peer Review Overview.
+You can return [here](https://github.com/makersacademy/ruby_foundations/blob/main/PEER_REVIEW.md) to view the Peer Review Overview.
 
 You can find the Peer Review checklist [here](./program/CHECKLIST.md)
 
