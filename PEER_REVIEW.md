@@ -40,7 +40,7 @@ Depending on the code you are reviewing, you might be looking for any number of 
 
 We are going to ask you to have a go at reviewing one of your peers challenges.
 
-We can do this by using GIT. Your peer will have made a branch called `ruby-foundations-challenge-one`. You are to find the Pull Request on their repo, and go through the code, leaving comments on the appropriate lines.
+We can do this by using GIT. Your peer will have made a branch called `peer_review_branch`. You are to find the Pull Request on their repo, and go through the code, leaving comments on the appropriate lines.
 
 This will then give them an opportunity to amend their submission.
 

@@ -122,18 +122,42 @@ Each of these can be further broken down...
 4. Keep going until all the tests pass
 
 ## Submitting Your Work
+You will need to push your changes to your repo in order for it to be reviewed.
 
-Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch1) to submit your code and screen recording
+**You must make a new public repo on GitHub!** 
+
+Call it something like "**ruby_challenge_one**". Make sure it is set to public
+
+Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch1) to submit your code and screen recording, and GitHub repo.
+
+Then add this destination repo to your remote path using Git:
+
+    
+    git add remote review_repo https://github.com/<your profile name>/ruby_challenge_one.git
+    
+
+You must make a new branch in order for your Peer to be able to leave comments on. It will look something like this:
+
+
+    git branch peer_review_branch
+    git switch peer_review_branch
+    git add .
+    git commit -m 'ready to be reviewed'
+    git push -u review_repo peer_review_branch
+
+Once you navigate to your GitHub repo, head to Pull Requests. This is where you can make a new Pull Request that compares `peer_review_branch` to `main`.
+
+You must send the link to this new Pull Request.
+
+Your Peer will leave comments on the Pull Request.
 
 ### Peer Code Review
 
 Upon submission of the initial programming task in Chapter 1, your technical coach will pair you up with someone who will review your code. Work with this colleague, until you are both happy that the submission is adequate at which point you can merge the branch and close the Pull Request.
 
-You can return [here](https://github.com/makersacademy/ruby_foundations/blob/main/PEER_REVIEW.md) to view the Peer Review Overview.
+You can return [here](.../PEER_REVIEW.md) to view the Peer Review Overview.
 
 You can find the Peer Review checklist [here](./program/CHECKLIST.md)
-
-Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch1_peer_review) to submit the Pull Request link on the reviewed repo, and a screenshot.
 
 ## What Next?
 

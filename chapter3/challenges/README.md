@@ -106,9 +106,37 @@ To improve readability, you might choose to break some of these methods down int
 6. Run `rspec` regularly to check your progress
 7. Keep going until all the tests pass
 
-## Submitting Your Work
 
-Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch3) to submit your code and screen recording
+
+## Submitting Your Work
+You will need to push your changes to your repo in order for it to be reviewed.
+
+**You must make a new public repo on GitHub!** 
+
+Call it something like "**ruby_challenge_three**". Make sure the repo is set to 'public'.
+
+Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch1) to submit your code and screen recording, and GitHub repo.
+
+Then add this destination repo to your remote path using Git:
+
+    
+    git add remote review_repo https://github.com/<your profile name>/ruby_challenge_one.git
+    
+
+You must make a new branch in order for your Peer to be able to leave comments on. It will look something like this:
+
+
+    git branch peer_review_branch
+    git switch peer_review_branch
+    git add .
+    git commit -m 'ready to be reviewed'
+    git push -u review_repo peer_review_branch
+
+Once you navigate to your GitHub repo, head to Pull Requests. This is where you can make a new Pull Request that compares `peer_review_branch` to `main`.
+
+You must send the link to this new Pull Request.
+
+Your Peer will leave comments on the Pull Request.
 
 ### Peer Code Review
 
