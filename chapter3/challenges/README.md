@@ -115,7 +115,7 @@ You will need to push your changes to your repo in order for it to be reviewed.
 
 Call it something like "**ruby_challenge_three**". Make sure the repo is set to 'public'.
 
-Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch1) to submit your code and screen recording, and GitHub repo.
+Use [this form](https://airtable.com/shr6mk28x0fy3OrxN?prefill_Item=rubyf_ch3_peer_review) to submit your code and screen recording, and GitHub repo.
 
 Then add this destination repo to your remote path using Git:
 
